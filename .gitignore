@@ -1,0 +1,16 @@
+#################
+## Eclipse
+#################
+.metadata
+bin/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#eclipse#
+/.classpath
+/.project
+/.settings
